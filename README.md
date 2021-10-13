@@ -1,5 +1,5 @@
 # Project1
-In the first project week, I will configured an ELK stack server in order to set up a cloud monitoring system. This project resulted in tangible deliverables that demonstrate my knowledge of cloud, network security, logging and monitoring.
+In the first project week, I configured an ELK stack server in order to set up a cloud monitoring system. This project resulted in tangible deliverables that demonstrate my knowledge of cloud, network security, logging and monitoring.
 
 The Scenario for this assignment was as follows:
 
